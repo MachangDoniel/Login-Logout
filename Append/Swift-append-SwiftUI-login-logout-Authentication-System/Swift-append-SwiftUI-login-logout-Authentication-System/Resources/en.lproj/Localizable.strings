@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Swift-append-SwiftUI-login-logout-Authentication-System
+
+  Created by Doniel Tripura on 10/5/25.
+  
+*/
+
+// Authentication
+"LOGIN_TITLE" = "Welcome Back";
+"USERNAME_OR_EMAIL_PLACEHOLDER" = "Username or Email";
+"PASSWORD_PLACEHOLDER" = "Password";
+"LOGIN_BUTTON_TITLE" = "Login";
+"REGISTRATION_FROM_HERE_TITLE" = "Don't have an account? Sign Up";
+"MESSAGE_TITLE" = "Message";
+"OK_TITLE" = "Ok";
+"CREATE_ACCOOUNT_TITLE" = "Create Account";
+"USERNAME_PLACEHOLDER" = "Username";
+"EMAIL_PLACEHOLDER" = "Email";
+"SIGNUP_BUTTON_TITLE" = "Sign Up";
+"LOGIN_FROM_HERE_TITLE" = "Already have an account? Log In";
+"WELCOME_MESSAGE" = "Welcome!";
+"LOGOUT_TITLE" = "Logout";
+
+// Alerts
+"EMPTY_FIELDS_ALERT" = "Please fill all fields";
+"INVALID_CREDENTIALS_ALERT" = "Invalid credentials";
+"UNKNOWN_ERROR_ALERT" = "Unknown error";
+"LOGIN_SUCCESSFULL_ALERT" = "Login successful!";
+"REGISTRATION_SUCCESSFULL_ALERT" = "User registered successfully!";
+"REGISTRATION_FAILED_ALERT" = "Registration failed. Please try again.";
+"LOGOUT_ALERT" = "User logged out.";

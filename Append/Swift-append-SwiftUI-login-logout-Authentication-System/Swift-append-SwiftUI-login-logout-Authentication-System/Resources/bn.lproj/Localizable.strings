@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Swift-append-SwiftUI-login-logout-Authentication-System
+
+  Created by Doniel Tripura on 10/5/25.
+  
+*/
+
+// Authentication
+"LOGIN_TITLE" = "স্বাগতম";
+"USERNAME_OR_EMAIL_PLACEHOLDER" = "ইউজারনেম বা ইমেইল";
+"PASSWORD_PLACEHOLDER" = "পাসওয়ার্ড";
+"LOGIN_BUTTON_TITLE" = "লগইন";
+"REGISTRATION_FROM_HERE_TITLE" = "অ্যাকাউন্ট নেই? সাইন আপ করুন";
+"MESSAGE_TITLE" = "বার্তা";
+"OK_TITLE" = "ঠিক আছে";
+"CREATE_ACCOOUNT_TITLE" = "অ্যাকাউন্ট তৈরি করুন";
+"USERNAME_PLACEHOLDER" = "ইউজারনেম";
+"EMAIL_PLACEHOLDER" = "ইমেইল";
+"SIGNUP_BUTTON_TITLE" = "সাইন আপ";
+"LOGIN_FROM_HERE_TITLE" = "আগে থেকেই অ্যাকাউন্ট আছে? লগইন করুন";
+"WELCOME_MESSAGE" = "স্বাগতম!";
+"LOGOUT_TITLE" = "লগআউট";
+
+// Alerts
+"EMPTY_FIELDS_ALERT" = "অনুগ্রহ করে সব ঘর পূরণ করুন";
+"INVALID_CREDENTIALS_ALERT" = "অবৈধ তথ্য প্রদান করা হয়েছে";
+"UNKNOWN_ERROR_ALERT" = "অজানা ত্রুটি ঘটেছে";
+"LOGIN_SUCCESSFULL_ALERT" = "লগইন সফল হয়েছে!";
+"REGISTRATION_SUCCESSFULL_ALERT" = "ব্যবহারকারী সফলভাবে নিবন্ধিত হয়েছে!";
+"REGISTRATION_FAILED_ALERT" = "নিবন্ধন ব্যর্থ হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।";
+"LOGOUT_ALERT" = "ব্যবহারকারী লগআউট হয়েছে।";
