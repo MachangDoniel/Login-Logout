@@ -50,14 +50,16 @@ The application is fully localized, demonstrated here in **Bangla**. Screenshots
 
 ## Setup Instructions
 
-### 1. Backend Setup (Spring Boot + MySQL)
+### 1. Clone the backend repository:
+    
+```bash
+git clone https://github.com/MachangDoniel/Login-Logout.git
+```
 
-1.  **Clone the backend repository:**
-    ```bash
-    git clone [https://github.com/SDEParag/Java-backend-Spring-boot-MySQL-login-logout-Authentication-System.git](https://github.com/SDEParag/Java-backend-Spring-boot-MySQL-login-logout-Authentication-System.git)
-    ```
-2.  Open the project in your preferred IDE (e.g., IntelliJ IDEA).
-3.  **Configure MySQL:**
+### 2. Backend Setup (Spring Boot + MySQL)
+
+1.  Open the project in your preferred IDE (e.g., IntelliJ IDEA).
+2.  **Configure MySQL:**
     * Update database connection details in `application.properties`.
     * In MySQL Workbench, run the following commands to verify the setup:
         ```sql
@@ -66,11 +68,11 @@ The application is fully localized, demonstrated here in **Bangla**. Screenshots
         SHOW TABLES;
         SELECT * FROM users;
         ```
-4.  **Run the Spring Boot backend.** Ensure the API is running and accessible at:
+3.  **Run the Spring Boot backend.** Ensure the API is running and accessible at:
     * **Simulator:** `http://127.0.0.1:8080`
     * **Real device:** `http://<local-network-ip>:8080`
 
-### 2. Frontend Setup (SwiftUI)
+### 3. Frontend Setup (SwiftUI)
 
 1.  Open the SwiftUI project in **Xcode**.
 2.  **Environment Object:** Ensure `UserSession` is correctly provided in your main application file (`@main struct MyApp`):
